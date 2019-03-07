@@ -18,7 +18,7 @@
 | 9 | 스택(1) | [강의자료](https://www.dropbox.com/s/krzqpetgbj6jyz8/%EA%B0%95%EC%9D%9806-%EC%8A%A4%ED%83%9D.pdf?dl=0)  | 4/30, 5/3 |
 | 10 | 스택(2) |   | 5/7, 5/10 |
 | 11 | 큐  | [강의자료](https://www.dropbox.com/s/8blosxfw6jcl8uz/%EA%B0%95%EC%9D%9807-%ED%81%90.pdf?dl=0)  | 5/14, 5/17   |
-| 12 | 트리(1)  | 강의자료  | 5/21, 5/24 |
+| 12 | 트리(1)  | [강의자료](https://www.dropbox.com/s/lpxh1m2487w6kem/%EA%B0%95%EC%9D%9808-%ED%8A%B8%EB%A6%AC.pdf?dl=0)  | 5/21, 5/24 |
 | 13 | 트리(2)  | 강의자료  | 5/28, 5/31 |
 | 14 | 트리(3) | 강의자료  | 6/4, 6/7   |
 | 15 | 분리집합 | 강의자료  | 6/11  |
