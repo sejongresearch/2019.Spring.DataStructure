@@ -13,7 +13,7 @@
 | 4 | 기초 데이터 구조 | [강의자료](https://www.dropbox.com/s/sdlyoahp16kijsd/%EA%B0%95%EC%9D%9804-%EB%A6%AC%EC%8A%A4%ED%8A%B8.pdf?dl=0) | 3/26, 3/29 |
 | 5 | 리스트(1) | [강의자료](https://www.dropbox.com/s/xlnhfj7qwmhqg7x/%EA%B0%95%EC%9D%9805-%EC%A7%91%ED%95%A9.pdf?dl=0) | 4/2, 4/5 |
 | 6 | 리스트(2) |   | 4/9, 4/12 |
-| 7 | 집합 | 강의자료 | 4/16, 4/19 |
+| 7 | 집합 | [강의자료](https://www.dropbox.com/s/xlnhfj7qwmhqg7x/%EA%B0%95%EC%9D%9805-%EC%A7%91%ED%95%A9.pdf?dl=0) | 4/16, 4/19 |
 | 8 | 중간고사 | 이론  | 4/23   |
 | 9 | 스택(1) | [강의자료](https://www.dropbox.com/s/krzqpetgbj6jyz8/%EA%B0%95%EC%9D%9806-%EC%8A%A4%ED%83%9D.pdf?dl=0)  | 4/30, 5/3 |
 | 10 | 스택(2) |   | 5/7, 5/10 |
