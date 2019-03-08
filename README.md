@@ -2,13 +2,13 @@
 
 ## 강의계획서
 - 이론 수업: 화 13:30-15:00 / 금 12:00-13:30
-- 실습 수업: 금 13:30-15:30
+- 실습 수업: 금 13:30-15:30 [OJ](https://ex-oj.sejong.ac.kr) 
 - 강의실: 센 B108
 
 | week | Cource Contents | LectureNote | Date | 
 |:---:|:---:|:---:|:---:|
-| 1 | 강의개요, C언어 복습 | [강의자료](https://www.dropbox.com/s/fktwtzulpmdl7dz/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B5%AC%EC%A1%B0%EB%B0%8F%EC%8B%A4%EC%8A%B5_1%EC%9D%BC%EC%B0%A8.pdf?dl=0) | 3/5, 3/8 |
-|   |  C언어 복습 I | [실습1](https://www.dropbox.com/s/0ifi00guobtnj4l/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-1%EC%A3%BC%EC%B0%A8_C%EB%B3%B5%EC%8A%B5-20180308.pdf?dl=0) | [OJ](https://ex-oj.sejong.ac.kr) |
+| 1 | 강의개요 | [강의자료](https://www.dropbox.com/s/fktwtzulpmdl7dz/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B5%AC%EC%A1%B0%EB%B0%8F%EC%8B%A4%EC%8A%B5_1%EC%9D%BC%EC%B0%A8.pdf?dl=0) | 3/5 |
+|   |  C언어 복습 I | [실습1](https://www.dropbox.com/s/0ifi00guobtnj4l/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-1%EC%A3%BC%EC%B0%A8_C%EB%B3%B5%EC%8A%B5-20180308.pdf?dl=0) | 3/8|
 |   |  C언어 복습 II | [과제1](https://www.dropbox.com/s/vaeup8l5l9dg63u/%EB%AA%A8%EC%9D%981%EC%B0%A8%20%EC%9D%B8%EC%A6%9D%20%EC%84%B8%ED%8A%B8.pdf?dl=0), [과제2](https://www.dropbox.com/s/hp1ktc7wremy25a/%EB%AA%A8%EC%9D%982%EC%B0%A8%20%EC%9D%B8%EC%A6%9D%20%EC%84%B8%ED%8A%B8.pdf?dl=0) | |
 | 2 | 알고리즘 분석  | [강의자료](https://www.dropbox.com/s/qhupgk0v8uhek0a/%EA%B0%95%EC%9D%9801-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B6%84%EC%84%9D.pdf?dl=0) | 3/12, 3/15 | 
 | 3 | 재귀 | [강의자료](https://www.dropbox.com/s/z9sohcm0ff0wrel/%EA%B0%95%EC%9D%9802-%EC%9E%AC%EA%B7%80.pdf?dl=0) | 3/19, 3/22 |
