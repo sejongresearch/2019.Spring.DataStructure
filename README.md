@@ -4,7 +4,7 @@
 - 이론 수업: 화 13:30-15:00 / 금 12:00-13:30
 - 실습 수업: 금 13:30-15:30 [OJ](https://ex-oj.sejong.ac.kr) 
 - 강의실: 센 B108
-- 교과교수: 최유경-(2019.DataStructure@rcv.sejong.ac.kr)
+- 교과교수: 최유경, 질의응답용 이메일-2019.DataStructure@rcv.sejong.ac.kr
 - 조교님들: 메인조교-김태우(viodle238@naver.com), 부조교-김양우(ywkim@sju.ac.kr)
 
 | week | Cource Contents | LectureNote | Date | 
