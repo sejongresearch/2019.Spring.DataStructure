@@ -8,7 +8,8 @@
 
 
 ### 재귀
-
+- [재귀호출 사용하기](https://youtu.be/k8bI3b-GUs8?list=PLa9dKeCAyr7jsbboqbsSnsTIVds0Dl3Ec),  4:41
+- [재귀호출로 팩토리얼 구하기](https://youtu.be/KSMy52drZa8?list=PLa9dKeCAyr7jsbboqbsSnsTIVds0Dl3Ec), 4:22
 
 ### LIST
 
