@@ -30,7 +30,7 @@
 | 6 | 리스트(2) |  [실습](https://www.dropbox.com/s/78ex84pau53ackf/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-6%EC%A3%BC%EC%B0%A8_%EB%A6%AC%EC%8A%A4%ED%8A%B8%282%29-20190412.pdf?dl=0) | 4/9, 4/12 |
 | 7 | 집합 | [FL강의](), [강의자료](https://www.dropbox.com/s/xlnhfj7qwmhqg7x/%EA%B0%95%EC%9D%9805-%EC%A7%91%ED%95%A9.pdf?dl=0), [실습](https://www.dropbox.com/s/1egoqncil9229br/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-7%EC%A3%BC%EC%B0%A8_%EC%A7%91%ED%95%A9-20190419.pdf?dl=0)  | 4/16, 4/19 |
 |  | 과제 3 |   | 4/22 | 
-| 8 | 중간고사 | 이론  | 4/23   |
+| 8 | 중간고사 | 실기시험  | 4/23   |
 | 9 | 스택(1) | [FL강의](), [강의자료](https://www.dropbox.com/s/krzqpetgbj6jyz8/%EA%B0%95%EC%9D%9806-%EC%8A%A4%ED%83%9D.pdf?dl=0), [실습](https://www.dropbox.com/s/p0tkv180xq2suf4/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-9%EC%A3%BC%EC%B0%A8_%EC%8A%A4%ED%83%9D%281%29-20190503.pdf?dl=0)  | 4/30, 5/3 |
 | 10 | 스택(2) | [실습](https://www.dropbox.com/s/tjz3v8mgwnqii13/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-10%EC%A3%BC%EC%B0%A8_%EC%8A%A4%ED%83%9D%282%29-20190510.pdf?dl=0)  | 5/7, 5/10 |
 | 11 | 큐  | [FL강의](), [강의자료](https://www.dropbox.com/s/8blosxfw6jcl8uz/%EA%B0%95%EC%9D%9807-%ED%81%90.pdf?dl=0), [실습](https://www.dropbox.com/s/1ja9casd93mrpiz/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-11%EC%A3%BC%EC%B0%A8_%ED%81%90-20190517.pdf?dl=0)  | 5/14, 5/17   |
