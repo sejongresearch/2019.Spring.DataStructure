@@ -3,6 +3,9 @@
 최유경 교수: 2019.DataStructure@rcv.sejong.ac.kr
 
 
+## C언어 강의자료
+- https://github.com/unizard/2019.Spring.DataStructure/blob/master/Advanced_C.md
+
 ## 강의계획서
 - 이론 수업: 화 13:30-15:00 / 금 12:00-13:30
 - 실습 수업: 금 13:30-15:30 [OJ](https://ex-oj.sejong.ac.kr) 
