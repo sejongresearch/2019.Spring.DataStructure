@@ -1,12 +1,6 @@
 
-## 강의 관련 질문 이메일
-최유경 교수: 2019.DataStructure@rcv.sejong.ac.kr
-
-
-## C언어 강의자료
-- https://github.com/unizard/2019.Spring.DataStructure/blob/master/Advanced_C.md
-
-## 강의계획서
+## 강의
+- [수업계획서](https://github.com/sejongresearch/2019.Spring.DataStructure/blob/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EB%B0%8F%EC%8B%A4%EC%8A%B5-%EC%88%98%EC%97%85%EA%B3%84%ED%9A%8D%EC%84%9C.pdf)
 - 이론 수업: 화 13:30-15:00 / 금 12:00-13:30
 - 실습 수업: 금 13:30-15:30 [OJ](https://ex-oj.sejong.ac.kr) 
 - 강의실: 센 B108
